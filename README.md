@@ -14,9 +14,10 @@ The repository includes basic configurations for:
 
 ## 🛠️ Technologies Used
 
+- python
+- unittest
 - GitHub Actions
 - Git
-- YAML
 
 ## 🎯 Project Goal
 
